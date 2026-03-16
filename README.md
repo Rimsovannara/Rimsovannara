@@ -21,7 +21,7 @@ To use this:
 
 ### 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/platane/master/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" alt="Ninja animation" />
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 🎯 My focus is on building cool and useful projects (like Android root solutions & optimizations).
