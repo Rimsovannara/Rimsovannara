@@ -48,26 +48,26 @@ To use this:
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=00C4CC&icon_color=8E75B2&text_color=A9B2C3&bg_color=0D1117&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=dark&fire=8E75B2&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=A9B2C3&sideNums=A9B2C3&currStreakNum=A9B2C3&hide_border=true&background=0D1117" alt="Rimsovannara's Streak" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=2196F3&icon_color=00C4CC&text_color=333333&bg_color=FFFFFF&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=default&fire=2196F3&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=333333&sideNums=333333&currStreakNum=333333&hide_border=true&background=FFFFFF" alt="Rimsovannara's Streak" height="192" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=00C4CC&text_color=A9B2C3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=2196F3&text_color=333333&bg_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=0D1117&color=00C4CC&line=8E75B2&point=FFFFFF&hide_border=true" alt="Rimsovannara's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=FFFFFF&color=333333&line=2196F3&point=00C4CC&hide_border=true" alt="Rimsovannara's Activity Graph" />
 </div>
 
 ---
