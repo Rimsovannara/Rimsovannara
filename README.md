@@ -40,17 +40,29 @@ To use this:
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rimsovannara's GitHub stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=tokyonight&hide_border=true&background=0D1117" alt="Rimsovannara's Streak" height="192" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Rimsovannara's GitHub stats" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true&background=0D1117" alt="Rimsovannara's Streak" height="192" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=radical&bg_color=0D1117&hide_border=true" alt="Rimsovannara's Activity Graph" />
 </div>
 
 ---
