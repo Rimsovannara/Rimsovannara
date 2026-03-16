@@ -30,11 +30,14 @@ To use this:
 
 <br/>
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages, Tools & AI
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp,gemini&perline=10" />
+    <br/>
+    <!-- The skillicons API doesn't support chatgpt currently, so we add a high-quality SVG manually for it -->
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin-top: 5px;" alt="ChatGPT" />
   </a>
 </p>
 
