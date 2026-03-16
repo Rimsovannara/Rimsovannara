@@ -34,10 +34,11 @@ To use this:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp,gemini&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp&perline=10" />
     <br/>
     <!-- The skillicons API doesn't support chatgpt currently, so we add a high-quality SVG manually for it -->
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin-top: 5px;" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" style="margin-top: 5px;" alt="Gemini" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="margin-top: 5px;" alt="Canva" />
   </a>
 </p>
