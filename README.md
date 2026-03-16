@@ -48,26 +48,26 @@ To use this:
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Rimsovannara's GitHub stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true&background=0D1117" alt="Rimsovannara's Streak" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=00C4CC&icon_color=8E75B2&text_color=A9B2C3&bg_color=0D1117&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=dark&fire=8E75B2&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=A9B2C3&sideNums=A9B2C3&currStreakNum=A9B2C3&hide_border=true&background=0D1117" alt="Rimsovannara's Streak" height="192" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=00C4CC&text_color=A9B2C3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=radical&bg_color=0D1117&hide_border=true" alt="Rimsovannara's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=0D1117&color=00C4CC&line=8E75B2&point=FFFFFF&hide_border=true" alt="Rimsovannara's Activity Graph" />
 </div>
 
 ---
