@@ -16,11 +16,10 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" alt="Ninja animation" />
-
-- 🌱 I’m currently learning and exploring new technologies.
-- 🎯 My focus is on building cool and useful projects (like Android root solutions & optimizations).
-- 💬 Ask me about **Android, Linux, or anything tech-related**.
+- 🚀 **Mission-Driven Developer:** I am deeply passionate about building performant, useful tools—ranging from Android OS and Kernel optimizations to advanced web automation scripts.
+- 🧠 **Fast Learner & Highly Adaptable:** I thrive in fast-paced environments and am always **ready to learn new things**. Whether it's picking up a new language or adapting to a new framework, I scale the learning curve quickly.
+- 💻 **Cross-Platform Tinkerer:** Currently exploring deep integrations in Linux/Android and creating modern web experiences. 
+- 🤝 **Let's Collaborate:** I'm actively seeking new opportunities to join a dynamic team where I can contribute my skills and continually grow as an engineer. Ask me about **Android Kernel modifications, Python Automation, or Web Development!**
 - 📫 How to reach me: 
   - <a href="https://t.me/RIM_SOVANNARA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="20"></a>
   - <a href="https://www.facebook.com/sovannararim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="20"></a>
@@ -49,23 +48,6 @@
 </p>
 
 <br/>
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=2196F3&icon_color=00C4CC&text_color=333333&bg_color=FFFFFF&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=2196F3&text_color=333333&bg_color=FFFFFF&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192" />
-  </picture>
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
