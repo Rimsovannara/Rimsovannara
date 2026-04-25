@@ -54,45 +54,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=radical&no-frame=true&no-bg=true&margin-w=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=2196F3&icon_color=00C4CC&text_color=333333&bg_color=FFFFFF&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
   </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=default&fire=2196F3&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=333333&sideNums=333333&currStreakNum=333333&hide_border=true&background=FFFFFF">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true" alt="Rimsovannara's Streak" height="192" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=2196F3&text_color=333333&bg_color=FFFFFF&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=react-dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=FFFFFF&color=333333&line=2196F3&point=00C4CC&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=react-dark&hide_border=true" alt="Rimsovannara's Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192" />
   </picture>
 </div>
 
