@@ -1,14 +1,9 @@
-<!-- 
-Welcome to your new GitHub Profile! 
-To use this:
-1. Go to https://github.com/new
-2. Create a new repository exactly named as your username: Rimsovannara
-3. Make sure it is Public and check "Add a README file"
-4. Copy the contents of this file into that new repository's README.md
--->
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%E2%9C%8B;I'm+Rimsovannara;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%E2%9C%8B;I'm+Rimsovannara;Welcome+to+my+GitHub+Profile!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi+there!+%E2%9C%8B;I'm+Rimsovannara;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%E2%9C%8B;I'm+Rimsovannara;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </picture>
 </div>
 
 <div align="center">
@@ -26,21 +21,31 @@ To use this:
 - 🌱 I’m currently learning and exploring new technologies.
 - 🎯 My focus is on building cool and useful projects (like Android root solutions & optimizations).
 - 💬 Ask me about **Android, Linux, or anything tech-related**.
-- 📫 How to reach me: **[Add your email or social link]**
+- 📫 How to reach me: 
+  - <a href="https://t.me/RIM_SOVANNARA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="20"></a>
+  - <a href="https://www.facebook.com/sovannararim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="20"></a>
+  - <a href="https://discord.gg/evuDPXhD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20"></a>
+  - <a href="https://rimsovannara.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" height="20"></a>
 
 <br/>
 
 ### 🛠️ Languages, Tools & AI
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp&perline=10" />
-    <br/>
-    <!-- The skillicons API doesn't support chatgpt currently, so we add a high-quality SVG manually for it -->
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin-top: 5px;" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" style="margin-top: 5px;" alt="Gemini" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="margin-top: 5px;" alt="Canva" />
+  <a href="https://skillicons.dev" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp,html,css&theme=dark&perline=11">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp,html,css&theme=light&perline=11">
+      <img src="https://skillicons.dev/icons?i=linux,bash,git,github,androidstudio,python,js,c,cpp,html,css&perline=11" alt="Skills" />
+    </picture>
   </a>
+</p>
+
+<!-- Extra Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
 <br/>
@@ -48,26 +53,47 @@ To use this:
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=radical&no-frame=true&no-bg=true&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rimsovannara&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Rimsovannara's Trophies" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=2196F3&icon_color=00C4CC&text_color=333333&bg_color=FFFFFF&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=default&fire=2196F3&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=333333&sideNums=333333&currStreakNum=333333&hide_border=true&background=FFFFFF" alt="Rimsovannara's Streak" height="192" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&title_color=2196F3&icon_color=00C4CC&text_color=333333&bg_color=FFFFFF&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rimsovannara&show_icons=true&theme=radical&hide_border=true" alt="Rimsovannara's GitHub stats" height="192" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=default&fire=2196F3&ring=00C4CC&currStreakLabel=00C4CC&sideLabels=333333&sideNums=333333&currStreakNum=333333&hide_border=true&background=FFFFFF">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsovannara&theme=radical&hide_border=true" alt="Rimsovannara's Streak" height="192" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=2196F3&text_color=333333&bg_color=FFFFFF&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&title_color=2196F3&text_color=333333&bg_color=FFFFFF&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimsovannara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=FFFFFF&color=333333&line=2196F3&point=00C4CC&hide_border=true" alt="Rimsovannara's Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=react-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&bg_color=FFFFFF&color=333333&line=2196F3&point=00C4CC&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rimsovannara&theme=react-dark&hide_border=true" alt="Rimsovannara's Activity Graph" />
+  </picture>
 </div>
 
 ---
