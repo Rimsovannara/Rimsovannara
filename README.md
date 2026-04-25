@@ -20,11 +20,11 @@
 - 🧠 **Fast Learner & Highly Adaptable:** I thrive in fast-paced environments and am always **ready to learn new things**. Whether it's picking up a new language or adapting to a new framework, I scale the learning curve quickly.
 - 💻 **Cross-Platform Tinkerer:** Currently exploring deep integrations in Linux/Android and creating modern web experiences. 
 - 🤝 **Let's Collaborate:** I'm actively seeking new opportunities to join a dynamic team where I can contribute my skills and continually grow as an engineer. Ask me about **Android Kernel modifications, Python Automation, or Web Development!**
-- 📫 How to reach me: 
-  - <a href="https://t.me/RIM_SOVANNARA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="20"></a>
-  - <a href="https://www.facebook.com/sovannararim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="20"></a>
-  - <a href="https://discord.gg/evuDPXhD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20"></a>
-  - <a href="https://rimsovannara.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" height="20"></a>
+- 📫 How to reach me: <br>
+  <a href="https://t.me/RIM_SOVANNARA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="20"></a>
+  <a href="https://www.facebook.com/sovannararim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="20"></a>
+  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20"></a>
+  <a href="https://rimsovannara.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" height="20"></a>
 
 <br/>
 
